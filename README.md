@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sumanth Manthena 👋
 
-<!--
-**sumanth4005/sumanth4005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Analyst | Generative AI Specialist | PhD Student in Enterprise Systems
 
-Here are some ideas to get you started:
+I’m interested in:
+- Generative AI
+- AI Product Analysis
+- LLM Evaluation
+- Prompt Engineering
+- Responsible AI
+- Product Analytics
+- Machine Learning Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- AI Product Analyst — JPMorgan Chase
+- Software Engineer — Cetera Financial Group
+- Software Engineer — Deloitte
+
+## Education
+- PhD in Enterprise Systems — Wayland Baptist University
+- MS in Information Systems — Trine University
+
+## Tools & Skills
+ChatGPT | Gemini | Claude | SQL | Excel | Power BI | Jira | Agile | AI/ML Concepts
+
+## Current Focus
+I’m currently building hands-on projects around Generative AI, LLM evaluation, AI product strategy, and responsible AI.
